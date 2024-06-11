@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Welcome to the TODO list program!");
+Console.WriteLine("Welcome to the TODO list program!!");
 List<string> list = new List<string>();
 
 string option = "";
