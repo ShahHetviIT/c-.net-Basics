@@ -1,0 +1,28 @@
+E:\Placement\c-.net-Basics\bin\Debug\net8.0\c-.net-Basics.exe
+E:\Placement\c-.net-Basics\bin\Debug\net8.0\c-.net-Basics.deps.json
+E:\Placement\c-.net-Basics\bin\Debug\net8.0\c-.net-Basics.runtimeconfig.json
+E:\Placement\c-.net-Basics\bin\Debug\net8.0\c-.net-Basics.dll
+E:\Placement\c-.net-Basics\bin\Debug\net8.0\c-.net-Basics.pdb
+E:\Placement\c-.net-Basics\obj\Debug\net8.0\c-.net-Basics.GeneratedMSBuildEditorConfig.editorconfig
+E:\Placement\c-.net-Basics\obj\Debug\net8.0\c-.net-Basics.AssemblyInfoInputs.cache
+E:\Placement\c-.net-Basics\obj\Debug\net8.0\c-.net-Basics.AssemblyInfo.cs
+E:\Placement\c-.net-Basics\obj\Debug\net8.0\c-.net-Basics.csproj.CoreCompileInputs.cache
+E:\Placement\c-.net-Basics\obj\Debug\net8.0\c-.net-Basics.dll
+E:\Placement\c-.net-Basics\obj\Debug\net8.0\refint\c-.net-Basics.dll
+E:\Placement\c-.net-Basics\obj\Debug\net8.0\c-.net-Basics.pdb
+E:\Placement\c-.net-Basics\obj\Debug\net8.0\c-.net-Basics.genruntimeconfig.cache
+E:\Placement\c-.net-Basics\obj\Debug\net8.0\ref\c-.net-Basics.dll
+E:\Placement\c-.net-Basics\Todo List\bin\Debug\net8.0\c-.net-Basics.exe
+E:\Placement\c-.net-Basics\Todo List\bin\Debug\net8.0\c-.net-Basics.deps.json
+E:\Placement\c-.net-Basics\Todo List\bin\Debug\net8.0\c-.net-Basics.runtimeconfig.json
+E:\Placement\c-.net-Basics\Todo List\bin\Debug\net8.0\c-.net-Basics.dll
+E:\Placement\c-.net-Basics\Todo List\bin\Debug\net8.0\c-.net-Basics.pdb
+E:\Placement\c-.net-Basics\Todo List\obj\Debug\net8.0\c-.net-Basics.GeneratedMSBuildEditorConfig.editorconfig
+E:\Placement\c-.net-Basics\Todo List\obj\Debug\net8.0\c-.net-Basics.AssemblyInfoInputs.cache
+E:\Placement\c-.net-Basics\Todo List\obj\Debug\net8.0\c-.net-Basics.AssemblyInfo.cs
+E:\Placement\c-.net-Basics\Todo List\obj\Debug\net8.0\c-.net-Basics.csproj.CoreCompileInputs.cache
+E:\Placement\c-.net-Basics\Todo List\obj\Debug\net8.0\c-.net-Basics.dll
+E:\Placement\c-.net-Basics\Todo List\obj\Debug\net8.0\refint\c-.net-Basics.dll
+E:\Placement\c-.net-Basics\Todo List\obj\Debug\net8.0\c-.net-Basics.pdb
+E:\Placement\c-.net-Basics\Todo List\obj\Debug\net8.0\c-.net-Basics.genruntimeconfig.cache
+E:\Placement\c-.net-Basics\Todo List\obj\Debug\net8.0\ref\c-.net-Basics.dll
